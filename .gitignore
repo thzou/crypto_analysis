@@ -1,3 +1,9 @@
+# .gitignore
+# Thanasis Zoumpekas (thanasis.z@hotmail.com)
+# Codename : thzou
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +108,40 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pkl files
+*.pkl
+
+# Vim swap files
+*.swp
+
+# Python byte code files
+*.pyc
+
+# PDF files
+*.pdf
+
+# zip files
+*.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# csv files
+*.csv
+
+# python cache files
+__pycache__
+
+# H5 files
+*.h5
+
+# Html files
+*.html
+
+# files of BTC pairs
+
+BTC_*
+
+# Folders 
+
